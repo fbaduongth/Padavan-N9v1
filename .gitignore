@@ -1,0 +1,7 @@
+# Build intermediates & temporary files
+__pycache__/
+*.pyc
+*.log
+*.dat
+*Rollback.web
+node_modules/
